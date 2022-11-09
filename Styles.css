@@ -315,7 +315,7 @@ aside{
 
 /* ProductDetail*/
 
-#productDetail-close{
+.product-detail-close{
     background: var(--white);
     width: 14px;
     height: 14px;
@@ -328,7 +328,7 @@ aside{
 }
 
 
-#productDetail-close:hover {
+.product-detail-close:hover {
     cursor: pointer;
 
 }
